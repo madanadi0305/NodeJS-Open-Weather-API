@@ -2,7 +2,7 @@ const request=require('request');
 const readline=require('readline');
 var city='';
 var count=0;
-const apiKey='58687ab65cde51585ba1bd66c5c4d413';
+const apiKey='Your API Key';
 
 
 
